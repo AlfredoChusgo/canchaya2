@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+.env
+!.env.example
+
+# SQLite
+*.db
+*.db-journal
+
+# Expo / React Native
+.expo/
+android/
+ios/
+
+# Uploads
+uploads/
+
+# Coverage
+coverage/
+
+# TypeScript incremental build info
+*.tsbuildinfo
