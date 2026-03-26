@@ -3,8 +3,8 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.yourcompany.yourapp",
-      "sha256_cert_fingerprints": ["YOUR_SHA256_FINGERPRINT"]
+      "package_name": "com.ach.canchaya",
+      "sha256_cert_fingerprints": ["94:26:6E:19:18:BA:9B:FB:13:32:19:E4:DB:9D:7C:B9:7C:0F:0C:C2:4F:A4:30:A1:53:BA:05:51:5F:4C:15:6C"]
     }
   }
 ]
